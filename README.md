@@ -17,3 +17,4 @@ MW2Degen Mouse Converter is a personal project that implements multiple tools in
 
 
 MD5:7337cfa89a579599899cf260b7dd6631
+https://www.virustotal.com/gui/file/6614ec22c0f4a1ed1aba7d0458200fea10afdb8fcacd88c4f19e6fcfddd4de0c/detection
