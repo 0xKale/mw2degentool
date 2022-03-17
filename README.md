@@ -2,7 +2,7 @@
 
 MW2Degen Mouse Converter is a personal project that implements multiple tools into one.
 
-- Firstly, the main goal for the tool is to convert ADS sens to roughly the same hipfire sens. 
+- Firstly, the main goal for the tool is to convert ADS sens to the same hipfire sens. 
 - Secondly, it provides command injection methods. This allows to run fullbright, max fps, fov changer etc. It is done through the CMD method.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/93299449/158818991-66fc2af5-a540-4b28-be64-4077edb60f8c.png)
