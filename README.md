@@ -7,7 +7,7 @@ MW2Degen Mouse Converter is a personal project that implements multiple tools in
 
 ![Screenshot_1](https://user-images.githubusercontent.com/93299449/158818991-66fc2af5-a540-4b28-be64-4077edb60f8c.png)
 
-# Ironsight
+# Intervention Ironsight
 - Use acog for full effect
 
 ![158068348-f6892bb8-0b4d-40f0-bb34-6f5535fc9c19](https://user-images.githubusercontent.com/93299449/158819242-793c6656-8b43-4e8a-89c0-1c124db08006.png)
