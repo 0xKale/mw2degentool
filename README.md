@@ -13,8 +13,10 @@ MW2Degen Mouse Converter is a personal project that implements multiple tools in
 ![158068348-f6892bb8-0b4d-40f0-bb34-6f5535fc9c19](https://user-images.githubusercontent.com/93299449/158819242-793c6656-8b43-4e8a-89c0-1c124db08006.png)
 
 # Release
-- v1.0
+version v1.1
+- Added beep sound when clicking submit
+v1.0
 
 
-MD5:7337cfa89a579599899cf260b7dd6631
-https://www.virustotal.com/gui/file/6614ec22c0f4a1ed1aba7d0458200fea10afdb8fcacd88c4f19e6fcfddd4de0c/detection
+MD5:04277c2ee6daa06442d97a4428d2d280
+https://www.virustotal.com/gui/file/e30076f0deb31ec73e2aa73133d453f46db4dcdb1dd6efce8711e5591335abe2
