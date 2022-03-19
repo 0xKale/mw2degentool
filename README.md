@@ -15,6 +15,7 @@ MW2Degen Mouse Converter is a personal project that implements multiple tools in
 # Release
 version v1.1
 - Added beep sound when clicking submit
+
 v1.0
 
 
