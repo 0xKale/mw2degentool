@@ -1,18 +1,22 @@
 # dismay's mw2 degen tool
 
-MW2Degen Mouse Converter is a personal project that implements multiple tools into one.
+dismay's mw2 degen tool is a personal project that implements multiple tools into one.
 
 - Firstly, the main goal for the tool is to convert ADS sens to the same hipfire sens. 
 - Secondly, it provides command injection methods. This allows to run fullbright, max fps, fov changer etc. It is done through the CMD method.
 
 The toggle buttons allow you to rollback changes by deselecting EXCEPT Intervention Ironsight. To fix ironsight, please restart the game.
 
-![Screenshot_1](https://user-images.githubusercontent.com/93299449/158818991-66fc2af5-a540-4b28-be64-4077edb60f8c.png)
+![image](https://user-images.githubusercontent.com/93299449/159416511-eeba66b3-cfc2-41ed-bf86-70ea4f24cbf8.png)
+
 
 # Intervention Ironsight
 - Use acog for full effect
 
-![158068348-f6892bb8-0b4d-40f0-bb34-6f5535fc9c19](https://user-images.githubusercontent.com/93299449/158819242-793c6656-8b43-4e8a-89c0-1c124db08006.png)
+![image](https://user-images.githubusercontent.com/93299449/159416644-50258ad5-ab9a-4e40-94e5-d43165040bda.png)
+
+![image](https://user-images.githubusercontent.com/93299449/159416701-7406aa88-faf0-46a9-a27a-e40812abbddf.png)
+
 
 # Release
 version v1.2
