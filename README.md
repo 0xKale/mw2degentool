@@ -5,7 +5,7 @@ dismay's mw2 degen tool is a personal project that implements multiple tools int
 - Firstly, the main goal for the tool is to convert ADS sens to the same hipfire sens. 
 - Secondly, it provides command injection methods. This allows to run fullbright, max fps, fov changer etc. It is done through the CMD method.
 
-The toggle buttons allow you to rollback changes by deselecting EXCEPT Intervention Ironsight. To fix ironsight, please restart the game.
+The toggle buttons allow you to rollback changes by unselecting EXCEPT Intervention Ironsight. To fix ironsight, please restart the game.
 
 ![image](https://user-images.githubusercontent.com/93299449/159416511-eeba66b3-cfc2-41ed-bf86-70ea4f24cbf8.png)
 
