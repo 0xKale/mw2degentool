@@ -18,10 +18,10 @@ The toggle buttons allow you to rollback changes by deselecting EXCEPT Intervent
 version v1.2
 - Added text to confirm submission
 - Checks if game is running. If game is not, do not run tool.
+
 version v1.1
 - Added beep sound when clicking submit
 - Added settings rollback
-v1.0
 
 
 MD5:04277c2ee6daa06442d97a4428d2d280
