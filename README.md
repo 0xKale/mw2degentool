@@ -29,5 +29,5 @@ version v1.1
 
 
 
-MD5:04277c2ee6daa06442d97a4428d2d280
-https://www.virustotal.com/gui/file/e30076f0deb31ec73e2aa73133d453f46db4dcdb1dd6efce8711e5591335abe2
+MD5:1488fdbe68aec5a1be75aa4313799a37
+https://www.virustotal.com/gui/file/5a07b2acd59130eaae8d0d8b1708b82d3bdc3129aad8ce29e2d9d47b6a7f5c72
