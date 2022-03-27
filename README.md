@@ -18,15 +18,15 @@ The toggle buttons allow you to rollback changes by unselecting the toggles.
 ![image](https://user-images.githubusercontent.com/93299449/159416701-7406aa88-faf0-46a9-a27a-e40812abbddf.png)
 
 
-# Release v1.3
+# Release v1.3b
 - Changed sens math from 0.5 to 0.65
-- Fixed Left hand feature
+- ~~Fixed Left hand feature~~ (Removed the whole feature, it causes too many issues and I cba. Version 1.3b fixes MW2 crash)
 - Fixed Ironsight rockback toggle
 - Added Save function to INI file
 - Load INI file on start up
 
-MD5:6e259cb7c44cb7b70db5c7c73ea81bdb
-https://www.virustotal.com/gui/file/6f0b4ac8a6d375c4aa56ca770ad400506299ec916ee53ad8ce1e6a168d90f815
+MD5:e4bfefa4c2c45388226fcc9b0435397f
+https://www.virustotal.com/gui/file/bab796d0e27bc8da3454271f667967d5f6aa97c6864749824d2ce86d305b12c1
 
 # Release Archive
 https://pastebin.com/EaLN2Q62
