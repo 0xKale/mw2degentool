@@ -19,7 +19,7 @@ The toggle buttons allow you to rollback changes by unselecting the toggles.
 
 
 # Release v1.3b
-- Changed sensitivitys math from 0.5 to 0.65
+- Changed sensitivity math from 0.5 to 0.65
 - ~~Fixed Left hand feature~~ (Removed the whole feature, it causes too many issues and I cba. Version 1.3b fixes MW2 crash)
 - Fixed Ironsight rollback toggle
 - Added Save function to INI file
