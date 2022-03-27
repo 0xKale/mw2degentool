@@ -19,11 +19,11 @@ The toggle buttons allow you to rollback changes by unselecting the toggles.
 
 
 # Release v1.3b
-- Changed sens math from 0.5 to 0.65
+- Changed sensitivitys math from 0.5 to 0.65
 - ~~Fixed Left hand feature~~ (Removed the whole feature, it causes too many issues and I cba. Version 1.3b fixes MW2 crash)
-- Fixed Ironsight rockback toggle
+- Fixed Ironsight rollback toggle
 - Added Save function to INI file
-- Load INI file on start up
+- Load INI file on tool start up
 
 MD5:e4bfefa4c2c45388226fcc9b0435397f
 https://www.virustotal.com/gui/file/bab796d0e27bc8da3454271f667967d5f6aa97c6864749824d2ce86d305b12c1
