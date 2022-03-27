@@ -25,10 +25,9 @@ The toggle buttons allow you to rollback changes by unselecting the toggles.
 - Added Save function to INI file
 - Load INI file on start up
 
+MD5:6e259cb7c44cb7b70db5c7c73ea81bdb
+https://www.virustotal.com/gui/file/6f0b4ac8a6d375c4aa56ca770ad400506299ec916ee53ad8ce1e6a168d90f815
+
 # Release Archive
 https://pastebin.com/EaLN2Q62
 
-
-
-MD5:6e259cb7c44cb7b70db5c7c73ea81bdb
-https://www.virustotal.com/gui/file/6f0b4ac8a6d375c4aa56ca770ad400506299ec916ee53ad8ce1e6a168d90f815
