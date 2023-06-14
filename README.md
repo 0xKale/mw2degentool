@@ -7,7 +7,7 @@ dismay's mw2 degen tool is a personal project that implements multiple tools int
 
 The toggle buttons allow you to rollback changes by unselecting the toggles.
 
-![image](https://user-images.githubusercontent.com/93299449/160278060-f78033dc-223e-44f8-9652-c28dd56fe0d6.png)
+![image](https://i.imgur.com/URdcwDD.png)
 
 
 # Intervention Ironsight
