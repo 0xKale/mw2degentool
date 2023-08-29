@@ -7,7 +7,7 @@ dismay's mw2 degen tool is a personal project that implements multiple tools int
 
 The toggle buttons allow you to rollback changes by unselecting the toggles.
 
-![image](https://i.imgur.com/URdcwDD.png)
+[![image](https://i.imgur.com/URdcwDD.png)](https://i.imgur.com/IwQ2rjW.png)
 
 # Release v1.4
 - Updated values to new version of MW2! (2023 update)
