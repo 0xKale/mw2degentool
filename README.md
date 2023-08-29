@@ -9,25 +9,15 @@ The toggle buttons allow you to rollback changes by unselecting the toggles.
 
 ![image](https://i.imgur.com/URdcwDD.png)
 
+# Release v1.4
+- Updated values to new version of MW2! (2023 update)
+- Removed old mouse hook that 1:1 mouse sens (🤮)
+- Currently removed intervention no scope on acog
+- Added FovScale native to Mw2 (native 1:1 mouse sens)
+- Changed GUI slightly and added Github link
+- Sniping is weird, like as50 on mw3 pog or no pog? Effect from fov scale
+- Many thanks to Seppuku404 for helping me reverse MW2
 
-# Intervention Ironsight
-- Use acog for full effect
 
-![image](https://user-images.githubusercontent.com/93299449/159416644-50258ad5-ab9a-4e40-94e5-d43165040bda.png)
-
-![image](https://user-images.githubusercontent.com/93299449/159416701-7406aa88-faf0-46a9-a27a-e40812abbddf.png)
-
-
-# Release v1.3b
-- Changed sensitivity math from 0.5 to 0.65
-- ~~Fixed Left hand feature~~ (Removed the whole feature, it causes too many issues and I cba. Version 1.3b fixes MW2 crash)
-- Fixed Ironsight rollback toggle
-- Added Save function to INI file
-- Load INI file on tool start up
-
-MD5:e4bfefa4c2c45388226fcc9b0435397f
-https://www.virustotal.com/gui/file/bab796d0e27bc8da3454271f667967d5f6aa97c6864749824d2ce86d305b12c1
-
-# Release Archive
-https://pastebin.com/EaLN2Q62
-
+MD5:TODO
+https://www.virustotal.com/gui/file/TODO
