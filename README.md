@@ -14,9 +14,9 @@ The toggle buttons allow you to rollback changes by unselecting the toggles.
 - Updated values to new version of MW2! (2023 update)
 - Removed old mouse hook that 1:1 mouse sens (🤮)
 - Currently removed intervention no scope on acog
-- Added FovScale native to Mw2 (native 1:1 mouse sens)
+- Added FovMin native to Mw2 (native 1:1 mouse sens)
 - Changed GUI slightly and added Github link
-- Sniping is weird, like as50 on mw3 pog or no pog? Effect from fov scale
+- Sniping is weird, like as50 on mw3 pog or no pog? Effect from FovMin
 - Many thanks to Seppuku404 for helping me reverse MW2
 
 
