@@ -7,7 +7,8 @@ dismay's mw2 degen tool is a personal project that implements multiple tools int
 
 The toggle buttons allow you to rollback changes by unselecting the toggles.
 
-![aeZ3xFJ](https://github.com/Devilish-Trio/mw2degentool/assets/93299449/b4c2ccbd-1dda-4868-925d-cc048839bdf8)
+![lite_v2_XkG1XKcwoJ](https://github.com/Devilish-Trio/mw2degentool/assets/93299449/79806b14-fe77-4df0-972e-0e852e787db5)
+
 
 # Release v1.4b
 - Changed GUI slightly
