@@ -1,3 +1,5 @@
+Since I doubt any updates will occur in the future for a 2009 game, I am leaving this repo as is. I will not be doing ANY MORE UPDATES plus idk about the game no more
+
 # dismay's mw2 degen tool
 
 dismay's mw2 degen tool is a personal project that implements multiple tools into one.
